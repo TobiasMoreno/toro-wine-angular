@@ -1,10 +1,9 @@
 :root {
   background-image: url('/assets/img/FondoWeb.png');
   color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
-.container{
+body{
   background-color: transparent;
-}
-* {
-  color: #ffffff;
 }
