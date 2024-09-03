@@ -1,0 +1,46 @@
+[
+  {
+    "nombre": "Mateo Funes",
+    "fecha_nac": "23/10/1997",
+    "posicion": "Medio",
+    "NickName": "TOW El Tetu",
+    "img": "/img/Jugadores/Tetu.jpg",
+    "descripcion" : "Midlaner abocado a la mejora continua",
+    "Instagram" : "https://www.instagram.com/tutefunes/"
+  },
+  {
+    "nombre": "Tomas Trepatt",
+    "fecha_nac": "07/04/1999",
+    "posicion": "ADC",
+    "NickName": "TOW Treep",
+    "img": "/img/Jugadores/Trippier.jpg"
+  },
+  {
+    "nombre": "Tobias Moreno",
+    "fecha_nac": "25/10/2000",
+    "posicion": "Jungla",
+    "NickName": "TOW Toas",
+    "img": "/img/Jugadores/Toba.jpg"
+  },
+  {
+    "nombre": "Lautaro Moreno",
+    "fecha_nac": "25/10/2000",
+    "posicion": "Soporte",
+    "NickName": "TOW Lauta",
+    "img": "/img/Jugadores/Laucha.jpg"
+  },
+  {
+    "nombre": "Facundo Torres",
+    "fecha_nac": "25/10/2000",
+    "posicion": "Superior",
+    "NickName": "TOW Cundo",
+    "img": "/img/Jugadores/FacuInsta.jpeg"
+  },
+  {
+    "nombre": "Lucas Brachetto",
+    "fecha_nac": "25/10/2000",
+    "posicion": "Indefinida",
+    "NickName": "TOW Luketo",
+    "img": "/img/Jugadores/Brachetto.jpg"
+  }
+]

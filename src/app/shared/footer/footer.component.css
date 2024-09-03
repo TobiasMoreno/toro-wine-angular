@@ -1,0 +1,21 @@
+.card-footer {
+  border: none;
+  background-color: transparent;
+  padding-bottom: 40px;
+}
+.card {
+  border: none;
+}
+.container {
+  background-color: transparent;
+  color: #ffffff;
+}
+.container * {
+  color: #ffffff;
+}
+.icon-footer {
+  margin: 0 20px;
+}
+.card-body {
+  font-size: 35px;
+}

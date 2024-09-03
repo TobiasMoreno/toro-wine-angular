@@ -54,6 +54,24 @@
     "img": "/img/Jugadores/Laucha.jpg"
   },
   {
+    "nombre": "Facundo Torres",
+    "fecha_nac": "25/10/2000",
+    "posicion": "Defensor",
+    "pie_habil": "Derecho",
+    "apodo": "El Tractor",
+    "mano_habil": "Carece",
+    "img": "/img/Jugadores/FacuInsta.jpeg"
+  },
+  {
+    "nombre": "Lucas Brachetto",
+    "fecha_nac": "25/10/2000",
+    "posicion": "Defensor",
+    "pie_habil": "Derecho",
+    "apodo": "El Tractor",
+    "mano_habil": "Carece",
+    "img": "/img/Jugadores/Brachetto.jpg"
+  },
+  {
     "nombre": "Tomas Onofri",
     "fecha_nac": "25/10/2000",
     "posicion": "Defensor",
@@ -115,23 +133,5 @@
     "apodo": "El Tractor",
     "mano_habil": "Carece",
     "img": "/img/Jugadores/Salocas.jpg"
-  },
-  {
-    "nombre": "Facundo Torres",
-    "fecha_nac": "25/10/2000",
-    "posicion": "Defensor",
-    "pie_habil": "Derecho",
-    "apodo": "El Tractor",
-    "mano_habil": "Carece",
-    "img": "/img/Jugadores/FacuInsta.jpeg"
-  },
-  {
-    "nombre": "Lucas Brachetto",
-    "fecha_nac": "25/10/2000",
-    "posicion": "Defensor",
-    "pie_habil": "Derecho",
-    "apodo": "El Tractor",
-    "mano_habil": "Carece",
-    "img": "/img/Jugadores/Brachetto.jpg"
   }
 ]

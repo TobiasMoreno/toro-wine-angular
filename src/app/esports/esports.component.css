@@ -1,0 +1,8 @@
+i {
+  font-size: 20px;
+}
+.border-bottom {
+  border-bottom: 1px solid #ccc; /* Cambia el color y grosor según prefieras */
+  padding-bottom: 8px; /* Añade un poco de espacio entre el texto y el borde */
+  margin-bottom: 12px; /* Añade espacio entre los párrafos */
+}

@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
   templateUrl: './socio.component.html',
   styleUrl: './socio.component.css'
 })
-export class SocioComponent {
+export default class SocioComponent {
 
 }

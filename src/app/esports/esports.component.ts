@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
   templateUrl: './esports.component.html',
   styleUrl: './esports.component.css'
 })
-export class EsportsComponent {
+export default class EsportsComponent {
 
 }

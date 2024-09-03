@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
   templateUrl: './plantilla.component.html',
   styleUrl: './plantilla.component.css'
 })
-export class PlantillaComponent {
+export default class PlantillaComponent {
 
 }
